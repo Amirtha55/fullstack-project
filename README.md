@@ -1,37 +1,60 @@
+
 # Full Stack E-Commerce Project
 
-## Overview
+## Live Demo
 
-This is a Full Stack E-Commerce Web Application built using React.js, Node.js, Express.js and MongoDB.
+🔗 https://fullastack-ecommerce.netlify.app/
+
+## GitHub Repository
+
+🔗 https://github.com/Amirtha55/fullstack-project
+
+## Screenshots
+
+### Home Page
+
+![Home](screenshots/home.png)
+
+### Products Page
+
+![Products](screenshots/products.png/product1.png)
+
+### Product Details
+
+![Product Details](screenshots/products.png/product2.png)
+
+## Technologies Used
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Bootstrap
 
 ## Features
 
-- Product Listing
-- Product Search
-- Category Filter
+- User Authentication
+- Product Management
 - Shopping Cart
 - Wishlist
-- Product Rating
-- Add Product
-- Edit Product
-- Delete Product
+- Search Products
+- Product Ratings
+- Responsive Design
 
-## Tech Stack
+## Installation
 
-Frontend:
-- React.js
-- Bootstrap
+### Frontend
 
-Backend:
-- Node.js
-- Express.js
+```bash
+cd frontend
+npm install
+npm start
+```
 
-Database:
-- MongoDB
+### Backend
 
-## Author
-
-Amirtha M
-
-GitHub:
-https://github.com/Amirtha55
+```bash
+cd backend
+npm install
+npm start
+```

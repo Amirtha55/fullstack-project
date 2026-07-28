@@ -12,13 +12,13 @@
 ## Screenshots
 
 ### Home Page
-![Home](screenshots/home.png)
+![Home](screenshots/home.png/home.png)
 
 ### Products Page
-![Products](screenshots/product1.png)
+![Products](screenshots/products.png/product1.png)
 
 ### Product Details
-![Product Details](screenshots/product2.png)
+![Product Details](screenshots/products.png/product2.png)
 
 ## Technologies Used
 
